@@ -1,0 +1,963 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE JAPANESE COMPANY'S SLAVE CORE
+#TITLE 人里に下ったアタイがいつの間にか社畜になっていた件 [働いたら負け　真]
+#ARTIST ねこみりん + nora2r feat. 小宮真央
+#BPM 180
+#PLAYLEVEL 0
+#RANK 1
+#TOTAL 111
+#STAGEFILE shatik_title.png
+
+#WAV01 drum_kick.wav
+#WAV02 drum_kick08.wav
+#WAV03 drum_kick08.wav
+#WAV04 drum_kick16.wav
+#WAV05 drum_kick16.wav
+#WAV06 drum_kick32.wav
+#WAV07 drum_kick32.wav
+#WAV08 drum_kick_3ren.wav
+#WAV09 drum_kick_3ren.wav
+#WAV0A drum_kick_shot.wav
+#WAV0B drum_kick_drill.wav
+#WAV0C drum_hh.wav
+#WAV0D drum_clap.wav
+#WAV0E drum_clap_08.wav
+#WAV0F drum_ride.wav
+#WAV0G drum_ride_short.wav
+#WAV0H drum_cym_cut1_L.wav
+#WAV0I drum_cym_cut1_R.wav
+#WAV0J drum_cym_cut3_01.wav
+#WAV0K drum_cym_cut3_02.wav
+#WAV0L drum_cym_cut3_03.wav
+#WAV0M drum_cym_cut3_04.wav
+#WAV0N drum_cym_cut3_05.wav
+#WAV0O drum_cym_cut6_L08.wav
+#WAV0P drum_cym_cut6_L16.wav
+#WAV0Q drum_cym_cut6_R08.wav
+#WAV0R drum_cym_cut6_R08D.wav
+#WAV0S drum_cym_cutOP_01.wav
+#WAV0T drum_cym_cutOP_02.wav
+#WAV0U drum_cym_cutOP_03.wav
+#WAV0V drum_cym_cutOP_04.wav
+#WAV0W drum_cym_cutOP_05.wav
+#WAV0X drum_cym_cutOP_06.wav
+#WAV0Y drum_cym_cutOP_07.wav
+#WAV0Z drum_cym_L.wav
+#WAV10 drum_cym_R.wav
+#WAV11 drum_cym1.wav
+#WAV12 drum_cym2.wav
+#WAV13 drum_rev1.wav
+#WAV14 drum_rev1L.wav
+#WAV15 drum_rev2.wav
+#WAV16 drum_amen.wav
+#WAV17 drum_Gkick_5c_008.wav
+#WAV18 drum_Gkick_5c_016.wav
+#WAV19 drum_Gkick_5c_016.wav
+#WAV1A drum_Gkick_5d_004.wav
+#WAV1B drum_Gkick_5d_008.wav
+#WAV1C drum_Gkick_5d_016.wav
+#WAV1D drum_Gkick_5d_016.wav
+#WAV1E drum_Gkick_5d_016.wav
+#WAV1F drum_Gkick_5d_016.wav
+#WAV1G drum_Gkick_5e_004.wav
+#WAV1H drum_Gkick_5e_008.wav
+#WAV1I drum_Gkick_5e_032.wav
+#WAV1J drum_Gkick_5e_032.wav
+#WAV1K drum_Gkick_5e_032.wav
+#WAV1L drum_Gkick_5e_032.wav
+#WAV1M drum_Gkick_5f_008.wav
+#WAV1N drum_Gkick_5f#_004.wav
+#WAV1O drum_Gkick_5g_008.wav
+#WAV1P drum_Gkick_5g_064.wav
+#WAV1Q drum_Gkick_5g_128.wav
+#WAV1R drum_Gkick_5a_008.wav
+#WAV1S drum_Gkick_drill01.wav
+#WAV1T drum_Gkick_drill02.wav
+#WAV1U drum_Gkick_drill03.wav
+#WAV1V drum_Gkick_drill04.wav
+#WAV1W drum_Gkick_rev.wav
+#WAV1X loop_01.wav
+#WAV1Y loop_02.wav
+#WAV1Z loop_03.wav
+#WAV20 loop_04.wav
+#WAV21 loop_05.wav
+#WAV22 loop_06.wav
+#WAV23 loop_07.wav
+#WAV24 ele_01TT.wav
+#WAV25 ele_01TTs.wav
+#WAV26 ele_01TTs.wav
+#WAV27 ele_02pon.wav
+#WAV28 ele_02pon!!!!!.wav
+#WAV29 ele_02ponL.wav
+#WAV2A ele_02ponR.wav
+#WAV2B ele_02ponSHOT.wav
+#WAV2C ele_03ST.wav
+#WAV2D ele_03STs.wav
+#WAV2E ele_03STs.wav
+#WAV2F ele_04p34.wav
+#WAV2G ele_04p34.wav
+#WAV2H ele_05p33.wav
+#WAV2I ele_06z3.wav
+#WAV2J ele_07BG.wav
+#WAV2K ele_07BGhigh.wav
+#WAV2L ele_08t18.wav
+#WAV2M ele_09p21.wav
+#WAV2N ele_10_dora.wav
+#WAV2O ele_10_dora_s.wav
+#WAV2P ele_10_dora_s.wav
+#WAV2Q ele_11wbA.wav
+#WAV2R ele_11wbB.wav
+#WAV2S ele_11wbC.wav
+#WAV2T ele_11wbD.wav
+#WAV2U ele_12peu.wav
+#WAV2V ele_13BGM.wav
+#WAV2W ele_13BGMs.wav
+#WAV2X ele_14kaa.wav
+#WAV2Y ele_15hoa.wav
+#WAV31 bass_3g_08s.wav
+#WAV32 bass_3a_08s.wav
+#WAV33 bass_3a#_16s.wav
+#WAV34 bass_3b_08.wav
+#WAV35 bass_3b_08s.wav
+#WAV36 bass_3b_16s.wav
+#WAV37 bass_4c_04s.wav
+#WAV38 bass_4c_08.wav
+#WAV39 bass_4c_08s.wav
+#WAV3A bass_4c_16s.wav
+#WAV3B bass_4c#_16s.wav
+#WAV3C bass_4d_04.wav
+#WAV3D bass_4d_08.wav
+#WAV3E bass_4d_1632.wav
+#WAV3F bass_4d_16s.wav
+#WAV3G bass_4d#_16s.wav
+#WAV3H bass_4e_04.wav
+#WAV3I bass_4e_08.wav
+#WAV3J bass_4e_1632.wav
+#WAV3K bass_4e_16s.wav
+#WAV3L bass_4f_04.wav
+#WAV3M bass_4f_08.wav
+#WAV3N bass_4f_08s.wav
+#WAV3O bass_4f_16plus.wav
+#WAV3P bass_4f_16plus.wav
+#WAV3Q bass_4f_16s.wav
+#WAV3R bass_4f_16s.wav
+#WAV3S bass_4f#_04.wav
+#WAV3T bass_4f#_08.wav
+#WAV3U bass_4f#_08s.wav
+#WAV3V bass_4f#_08s.wav
+#WAV3W bass_4f#_1632.wav
+#WAV3X bass_4f#_1632.wav
+#WAV3Y bass_4g_04.wav
+#WAV3Z bass_4g_04s.wav
+#WAV40 bass_4g_08.wav
+#WAV41 bass_4g_1632.wav
+#WAV42 bass_4g#_08.wav
+#WAV43 bass_4a_08.wav
+#WAV44 bass_4a#_08.wav
+#WAV45 bass_4b_08.wav
+#WAV46 bass_4b_16s.wav
+#WAV47 bass_4b_16s.wav
+#WAV48 bassB_4d.wav
+#WAV49 bassB_4d.wav
+#WAV4A bassB_4d#.wav
+#WAV4B bassB_4e.wav
+#WAV4C bassB_4e.wav
+#WAV4D bassB_4f.wav
+#WAV4E bassB_4f#.wav
+#WAV4F bassB_4f#.wav
+#WAV4G bassB_4g.wav
+#WAV4H bassB_4g.wav
+#WAV4I bassC_01.wav
+#WAV4J bassC_01.wav
+#WAV4K bassC_02.wav
+#WAV4L bassC_03.wav
+#WAV4M bassC_04.wav
+#WAV4N bassC_05.wav
+#WAV4O bassC_05.wav
+#WAV4P bassC_06.wav
+#WAV4Q bassC_07.wav
+#WAV4R bassC_08.wav
+#WAV4S bassC_08.wav
+#WAV4T bassC_09.wav
+#WAV4U bassC_10.wav
+#WAV4V bassC_11.wav
+#WAV4W bassC_11.wav
+#WAV4X bassC_12.wav
+#WAV4Y bassC_13.wav
+#WAV4Z bassC_14.wav
+#WAV50 bassC_15.wav
+#WAV51 bassC_16.wav
+#WAV52 bassC_17.wav
+#WAV53 bassP_01.wav
+#WAV54 bassP_02.wav
+#WAV55 bassP_03.wav
+#WAV56 bassP_04.wav
+#WAV57 bassP_05.wav
+#WAV58 bassP_06.wav
+#WAV5A OPsynth_01.wav
+#WAV5B OPsynth_02.wav
+#WAV5C OPsynth_03.wav
+#WAV5D OPsynth_04.wav
+#WAV5E OPsynth_05.wav
+#WAV5F OPsynth_06.wav
+#WAV5G OPsynth_07.wav
+#WAV5I piko_Amelo_01.wav
+#WAV5J piko_Amelo_02.wav
+#WAV5K piko_Amelo_02.wav
+#WAV5L piko_Amelo_03.wav
+#WAV5M piko_Amelo_03.wav
+#WAV5N piko_Amelo_04.wav
+#WAV5O piko_Amelo_05.wav
+#WAV5P piko_Amelo_06.wav
+#WAV5Q piko_Amelo_07.wav
+#WAV5R piko_Amelo_08.wav
+#WAV5T hit01_01.wav
+#WAV5U hit01_02.wav
+#WAV5V hit02_01.wav
+#WAV5W hit02_02.wav
+#WAV60 Hoover1_01.wav
+#WAV61 Hoover1_02.wav
+#WAV62 Hoover1_03.wav
+#WAV63 Hoover1_04.wav
+#WAV64 Hoover1_05.wav
+#WAV65 Hoover1_06.wav
+#WAV66 Hoover1_07.wav
+#WAV67 Hoover1_08.wav
+#WAV68 Hoover1_09.wav
+#WAV69 Hoover1_10.wav
+#WAV6A Hoover1_11.wav
+#WAV6B Hoover1_12.wav
+#WAV6C Hoover1_13.wav
+#WAV6D Hoover1_14.wav
+#WAV6E Hoover1_15.wav
+#WAV6F Hoover1_16.wav
+#WAV6G Hoover1_Long.wav
+#WAV6H Hoover1_U01.wav
+#WAV6I Hoover1_U02.wav
+#WAV6J Hoover2_L.wav
+#WAV6K Hoover2_L.wav
+#WAV6L Hoover2_s01.wav
+#WAV6M Hoover2_s01.wav
+#WAV6N Hoover2_s02.wav
+#WAV6O Hoover2_s02.wav
+#WAV6P Hoover2_s03.wav
+#WAV6Q Hoover2_s03.wav
+#WAV6R Hoover2_s04.wav
+#WAV6S Hoover2_s04.wav
+#WAV6T Hoover2_s05.wav
+#WAV6U Hoover2_s05.wav
+#WAV6V Hoover2_s06.wav
+#WAV6W Hoover2_s06.wav
+#WAV6Y Hoover2_X01.wav
+#WAV6Z Hoover2_X02.wav
+#WAV70 Hoover2_X03.wav
+#WAV71 Hoover2_X04.wav
+#WAV72 Hoover2_X05.wav
+#WAV73 Hoover2_X06.wav
+#WAV74 Hoover2_X07.wav
+#WAV75 Hoover2_X08.wav
+#WAV76 Hoover2_X09.wav
+#WAV77 Hoover2_X10.wav
+#WAV78 Hoover2_X11.wav
+#WAV79 Hoover2_X12.wav
+#WAV7A Hoover2_X13.wav
+#WAV7B Hoover2_X14.wav
+#WAV7C HooverOP_01.wav
+#WAV7D HooverOP_02.wav
+#WAV7E HooverOP_03.wav
+#WAV7F HooverOP_04.wav
+#WAV7G HooverOP_05.wav
+#WAV7H HooverOP_06.wav
+#WAV7I HooverOP_07.wav
+#WAV7J HooverOP_08.wav
+#WAV7K HooverS_01.wav
+#WAV7L HooverS_01.wav
+#WAV7M HooverS_02.wav
+#WAV7N HooverS_03.wav
+#WAV7O HooverS_04.wav
+#WAV7Q subsynth1_01.wav
+#WAV7R subsynth1_02.wav
+#WAV7S subsynth1_03.wav
+#WAV7T subsynth1_04.wav
+#WAV7U subsynth1_05.wav
+#WAV7V subsynth1_06.wav
+#WAV7W subsynth1_07.wav
+#WAV7X subsynth1_08.wav
+#WAV7Y subsynth1_09.wav
+#WAV7Z subsynth1_10.wav
+#WAV80 subsynth1_11.wav
+#WAV81 subsynth1_12.wav
+#WAV82 subsynth1_13.wav
+#WAV83 subsynth1_14.wav
+#WAV84 subsynth1_15.wav
+#WAV85 subsynth1_16.wav
+#WAV86 subsynth1_17.wav
+#WAV87 subsynth1_18.wav
+#WAV88 subsynth1_19.wav
+#WAV89 subsynth1_20.wav
+#WAV8A subsynth1_21.wav
+#WAV8B subsynth1#2_a1.wav
+#WAV8C subsynth1#2_a1.wav
+#WAV8D subsynth1#2_a2.wav
+#WAV8E subsynth1#2_a3.wav
+#WAV8F subsynth1#2_a3.wav
+#WAV8G subsynth1#2_a4.wav
+#WAV8H subsynth1#2_b1.wav
+#WAV8I subsynth1#2_b2.wav
+#WAV8J subsynth1#2_b3.wav
+#WAV8K subsynth1#2_b4.wav
+#WAV8L subsynth1#2_b5.wav
+#WAV8M subsynth1#2_b6.wav
+#WAV8N subsynth1#2_b7.wav
+#WAV8O subsynth1#2_b8.wav
+#WAV8Q subsynth2-3ren_01.wav
+#WAV8R subsynth2-3ren_02.wav
+#WAV8S subsynth2-3ren_03.wav
+#WAV8T subsynth2-3ren_04.wav
+#WAV8U subsynth2-3ren_05.wav
+#WAV8V subsynth2-3ren_06.wav
+#WAV8W subsynth2-3ren_07.wav
+#WAV8X subsynth2-3ren_08.wav
+#WAV8Y subsynth2-3ren_09.wav
+#WAV8Z subsynth2-3ren_10.wav
+#WAV90 subsynth2-3ren_11.wav
+#WAV91 subsynth2-3ren_12.wav
+#WAV92 subsynth2-3ren_13.wav
+#WAV93 subsynth2-3ren_14.wav
+#WAV94 subsynth2-3ren_ren.wav
+#WAV96 subsynth2_4d_16.wav
+#WAV97 subsynth2_4e_08.wav
+#WAV98 subsynth2_4e_16.wav
+#WAV99 subsynth2_4f#_08.wav
+#WAV9A subsynth2_4f#_16.wav
+#WAV9B subsynth2_4g_08.wav
+#WAV9C subsynth2_4g_16.wav
+#WAV9D subsynth2_4g#_16.wav
+#WAV9E subsynth2_4b_08.wav
+#WAV9F subsynth2_4b_16.wav
+#WAV9G subsynth2_5c_16.wav
+#WAV9H subsynth2_5d_08.wav
+#WAV9I subsynth2_5d_16.wav
+#WAV9J subsynth2_5e_04.wav
+#WAV9K subsynth2_5e_08.wav
+#WAV9L subsynth2_5e_16.wav
+#WAV9M subsynth2_5f#_04.wav
+#WAV9N subsynth2_5f#_08.wav
+#WAV9O subsynth2_5f#_16.wav
+#WAV9P subsynth2_5g_08.wav
+#WAV9Q subsynth2_5g_16.wav
+#WAV9R subsynth2_5g#_08.wav
+#WAV9S subsynth2_5a_16.wav
+#WAV9T subsynth2_5b_0816.wav
+#WAV9U subsynth2_5b_08.wav
+#WAV9V subsynth2_5b_16.wav
+#WAV9W subsynth2_6d_16.wav
+#WAV9X subsynth2_6e_16.wav
+#WAV9Y subsynth2_6f#_16.wav
+#WAV9Z subsynth2_6g_16.wav
+#WAVA0 subsynth2_6a_16.wav
+#WAVA1 subsynth2_6b_16.wav
+#WAVA2 subsynth2_harm01.wav
+#WAVA3 subsynth2_harm01.wav
+#WAVA4 subsynth2_harm02.wav
+#WAVA6 back_01.wav
+#WAVA7 back_02.wav
+#WAVA8 back_03.wav
+#WAVA9 back_04.wav
+#WAVAB bell1_01.wav
+#WAVAC bell1_02.wav
+#WAVAD bell1_03.wav
+#WAVAE bell1_04.wav
+#WAVAF bell1_05.wav
+#WAVAG bell1_06.wav
+#WAVAH bell1_07.wav
+#WAVAI bell1_08.wav
+#WAVAJ bell1_pitch.wav
+#WAVAK bellOP_01.wav
+#WAVAL bellOP_02.wav
+#WAVAM bellOP_03.wav
+#WAVAN bellOP_04.wav
+#WAVAO bellOP_05.wav
+#WAVAP bellOP_06.wav
+#WAVAQ bellOP_07.wav
+#WAVAS trom_01.wav
+#WAVAT trom_02.wav
+#WAVB1 kuukan01_01.wav
+#WAVB2 kuukan01_02.wav
+#WAVB3 kuukan01_03.wav
+#WAVB4 kuukan01_04.wav
+#WAVB5 kuukan02_01.wav
+#WAVB6 kuukan02_02.wav
+#WAVB7 kuukan02_03.wav
+#WAVB8 kuukan02_04.wav
+#WAVB9 kuukan03_01.wav
+#WAVBA kuukan03_02.wav
+#WAVBB kuukan03_03.wav
+#WAVBC kuukan03_04.wav
+#WAVBD kuukan03_05.wav
+#WAVBF shamisynth1_01.wav
+#WAVBG shamisynth1_02.wav
+#WAVBH shamisynth1_03.wav
+#WAVBI shamisynth1_04.wav
+#WAVBJ shamisynth1_05.wav
+#WAVBK shamisynth1_06.wav
+#WAVBL shamisynth1_07.wav
+#WAVBM shamisynth1_08.wav
+#WAVBN shamisynth1_09.wav
+#WAVBO shamisynth1_10.wav
+#WAVBP shamisynth1_11.wav
+#WAVBQ shamisynth1_12.wav
+#WAVBR shamisynth1_13.wav
+#WAVBS shamisynth1_14.wav
+#WAVBT shamisynth1_15.wav
+#WAVBU shamisynth1_16.wav
+#WAVBV shamisynth1_17.wav
+#WAVBW shamisynth1_18.wav
+#WAVBX shamisynth1_19.wav
+#WAVBY shamisynth1_20.wav
+#WAVBZ shamisynth1_21.wav
+#WAVC1 shamisynth2op_01.wav
+#WAVC2 shamisynth2op_02.wav
+#WAVC3 shamisynth2op_03.wav
+#WAVC4 shamisynth2op_04.wav
+#WAVC5 shamisynth2op_05.wav
+#WAVC6 shamisynth2op_06.wav
+#WAVC7 shamisynth2op_07.wav
+#WAVC8 shamisynth2op_08.wav
+#WAVCA shamisynth2-1_01.wav
+#WAVCB shamisynth2-1_02.wav
+#WAVCC shamisynth2-1_03.wav
+#WAVCD shamisynth2-1_03.wav
+#WAVCE shamisynth2-1_04.wav
+#WAVCF shamisynth2-1_05.wav
+#WAVCG shamisynth2-1_06.wav
+#WAVCH shamisynth2-1_07.wav
+#WAVCI shamisynth2-1_08.wav
+#WAVCJ shamisynth2-1_09.wav
+#WAVCK shamisynth2-1_09.wav
+#WAVCL shamisynth2-1_10.wav
+#WAVCM shamisynth2-1_11.wav
+#WAVCN shamisynth2-1_12.wav
+#WAVCO shamisynth2-1_13.wav
+#WAVCP shamisynth2-1_14.wav
+#WAVCQ shamisynth2-1_15.wav
+#WAVCR shamisynth2-1_16.wav
+#WAVCS shamisynth2-1_17.wav
+#WAVCT shamisynth2-1_18.wav
+#WAVCU shamisynth2-1_19.wav
+#WAVCV shamisynth2-1_20.wav
+#WAVCW shamisynth2-1_21.wav
+#WAVCX shamisynth2-1_22.wav
+#WAVCY shamisynth2-1_23.wav
+#WAVCZ shamisynth2-1_24.wav
+#WAVD0 shamisynth2-1_25.wav
+#WAVD1 shamisynth2-1_26.wav
+#WAVD2 shamisynth2-1_27.wav
+#WAVD3 shamisynth2-1_28.wav
+#WAVD4 shamisynth2-1_29.wav
+#WAVD5 shamisynth2-1_30.wav
+#WAVD6 shamisynth2-1_31.wav
+#WAVD7 shamisynth2-1_32.wav
+#WAVD8 shamisynth2-1_33.wav
+#WAVD9 shamisynth2-1_34.wav
+#WAVDA shamisynth2-1_35.wav
+#WAVDB shamisynth2-1_36.wav
+#WAVDC shamisynth2-1_37.wav
+#WAVDD shamisynth2-1_38.wav
+#WAVDE shamisynth2-1_39.wav
+#WAVDF shamisynth2-1_40.wav
+#WAVDH shamisynth2-1add_01.wav
+#WAVDI shamisynth2-1add_02.wav
+#WAVDJ shamisynth2-1add_03.wav
+#WAVDK shamisynth2-1add_04.wav
+#WAVDL shamisynth2-1add_05.wav
+#WAVDM shamisynth2-1add_06.wav
+#WAVDN shamisynth2-1add_07.wav
+#WAVDO shamisynth2-1add2_01.wav
+#WAVDP shamisynth2-1add2_02.wav
+#WAVDQ shamisynth2-1add2_03.wav
+#WAVDR shamisynth2-1add2_04.wav
+#WAVDS shamisynth2-1add2_05.wav
+#WAVDT shamisynth2-1add2_06.wav
+#WAVDU shamisynth2-1add2_07.wav
+#WAVDV shamisynth2-1add2_08.wav
+#WAVDW shamisynth2-1add2_09.wav
+#WAVDX shamisynth2-1add2_10.wav
+#WAVDY shamisynth2-1add2_11.wav
+#WAVE0 shamisynth2-2_01.wav
+#WAVE1 shamisynth2-2_02.wav
+#WAVE2 shamisynth2-2_03.wav
+#WAVE3 shamisynth2-2_04.wav
+#WAVE4 shamisynth2-2_05.wav
+#WAVE5 shamisynth2-2_06.wav
+#WAVE6 shamisynth2-2_07.wav
+#WAVE8 shamisynth2-2_s01.wav
+#WAVE9 shamisynth2-2_s02.wav
+#WAVEA shamisynth2-2_s03.wav
+#WAVEB shamisynth2-2_s04.wav
+#WAVEC shamisynth2-2_s05.wav
+#WAVED shamisynth2-2_s06.wav
+#WAVEE shamisynth2-2_s07.wav
+#WAVEF shamisynth2-2_s08.wav
+#WAVEG shamisynth2-2_s09.wav
+#WAVEH shamisynth2-2_s10.wav
+#WAVEI shamisynth2-2_s11.wav
+#WAVEJ shamisynth2-2_s12.wav
+#WAVEK shamisynth2-2_s13.wav
+#WAVEL shamisynth2-2_s14.wav
+#WAVEM shamisynth2-2_s15.wav
+#WAVEN shamisynth2-2_s16.wav
+#WAVEO shamisynth2-2_s17.wav
+#WAVEP shamisynth2-2_s18.wav
+#WAVEQ shamisynth2-2_s19.wav
+#WAVER shamisynth2-2_s20.wav
+#WAVES shamisynth2-2_s21.wav
+#WAVET shamisynth2-2_s22.wav
+#WAVEU shamisynth2-2_s23.wav
+#WAVEV shamisynth2-2_s24.wav
+#WAVEW shamisynth2-2_s25.wav
+#WAVEX shamisynth2-2_s26.wav
+#WAVEY shamisynth2-2_s27.wav
+#WAVEZ shamisynth2-2_s28.wav
+#WAVF1 shamisynth2-3_001.wav
+#WAVF2 shamisynth2-3_002.wav
+#WAVF3 shamisynth2-3_003.wav
+#WAVF4 shamisynth2-3_004.wav
+#WAVF5 shamisynth2-3_005.wav
+#WAVF6 shamisynth2-3_006.wav
+#WAVF7 shamisynth2-3_007.wav
+#WAVF8 shamisynth2-3_008.wav
+#WAVF9 shamisynth2-3_009.wav
+#WAVFA shamisynth2-3_010.wav
+#WAVFB shamisynth2-3_011.wav
+#WAVFC shamisynth2-3_012.wav
+#WAVFD shamisynth2-3_013.wav
+#WAVFE shamisynth2-3_014.wav
+#WAVFF shamisynth2-3_015.wav
+#WAVFG shamisynth2-3_016.wav
+#WAVFH shamisynth2-3_017.wav
+#WAVFI shamisynth2-3_018.wav
+#WAVFJ shamisynth2-3_019.wav
+#WAVFK shamisynth2-3_020.wav
+#WAVFL shamisynth2-3_021.wav
+#WAVFM shamisynth2-3_022.wav
+#WAVFN shamisynth2-3_023.wav
+#WAVFO shamisynth2-3_024.wav
+#WAVFP shamisynth2-3_025.wav
+#WAVFQ shamisynth2-3_026.wav
+#WAVFR shamisynth2-3_027.wav
+#WAVFS shamisynth2-3_028.wav
+#WAVFT shamisynth2-3_029.wav
+#WAVFU shamisynth2-3_030.wav
+#WAVFV shamisynth2-3_031.wav
+#WAVFW shamisynth2-3_032.wav
+#WAVFX shamisynth2-3_033.wav
+#WAVFY shamisynth2-3_034.wav
+#WAVFZ shamisynth2-3_035.wav
+#WAVG0 shamisynth2-3_036.wav
+#WAVG1 shamisynth2-3_037.wav
+#WAVG2 shamisynth2-3_038.wav
+#WAVG3 shamisynth2-3_039.wav
+#WAVG4 shamisynth2-3_040.wav
+#WAVG5 shamisynth2-3_041.wav
+#WAVG6 shamisynth2-3_042.wav
+#WAVG7 shamisynth2-3_043.wav
+#WAVG8 shamisynth2-3_044.wav
+#WAVG9 shamisynth2-3_045.wav
+#WAVGA shamisynth2-3_046.wav
+#WAVGB shamisynth2-3_047.wav
+#WAVGC shamisynth2-3_048.wav
+#WAVGD shamisynth2-3_049.wav
+#WAVGE shamisynth2-3_050.wav
+#WAVGF shamisynth2-3_051.wav
+#WAVGG shamisynth2-3_052.wav
+#WAVGH shamisynth2-3_053.wav
+#WAVGI shamisynth2-3_054.wav
+#WAVGJ shamisynth2-3_055.wav
+#WAVGK shamisynth2-3_056.wav
+#WAVGL shamisynth2-3_057.wav
+#WAVGM shamisynth2-3_058.wav
+#WAVGN shamisynth2-3_059.wav
+#WAVGO shamisynth2-3_060.wav
+#WAVGP shamisynth2-3_061.wav
+#WAVGQ shamisynth2-3_062.wav
+#WAVGR shamisynth2-3_063.wav
+#WAVGS shamisynth2-3_064.wav
+#WAVGT shamisynth2-3_065.wav
+#WAVGU shamisynth2-3_066.wav
+#WAVGV shamisynth2-3_067.wav
+#WAVGW shamisynth2-3_068.wav
+#WAVGX shamisynth2-3_069.wav
+#WAVGY shamisynth2-3_070.wav
+#WAVGZ shamisynth2-3_071.wav
+#WAVH0 shamisynth2-3_072.wav
+#WAVH1 shamisynth2-3_073.wav
+#WAVH2 shamisynth2-3_074.wav
+#WAVH3 shamisynth2-3_075.wav
+#WAVH4 shamisynth2-3_076.wav
+#WAVH5 shamisynth2-3_077.wav
+#WAVH6 shamisynth2-3_078.wav
+#WAVH7 shamisynth2-3_079.wav
+#WAVH8 shamisynth2-3_080.wav
+#WAVH9 shamisynth2-3_081.wav
+#WAVHA shamisynth2-3_082.wav
+#WAVHB shamisynth2-3_083.wav
+#WAVHC shamisynth2-3_084.wav
+#WAVHD shamisynth2-3_085.wav
+#WAVHE shamisynth2-3_086.wav
+#WAVHF shamisynth2-3_087.wav
+#WAVHG shamisynth2-3_088.wav
+#WAVHH shamisynth2-3_089.wav
+#WAVHI shamisynth2-3_090.wav
+#WAVHJ shamisynth2-3_091.wav
+#WAVHK shamisynth2-3_092.wav
+#WAVHL shamisynth2-3_093.wav
+#WAVHM shamisynth2-3_094.wav
+#WAVHN shamisynth2-3_095.wav
+#WAVHO shamisynth2-3_096.wav
+#WAVHP shamisynth2-3_097.wav
+#WAVHQ shamisynth2-3_098.wav
+#WAVHR shamisynth2-3_099.wav
+#WAVHS shamisynth2-3_100.wav
+#WAVHT shamisynth2-3_101.wav
+#WAVHU shamisynth2-3_102.wav
+#WAVHV shamisynth2-3_103.wav
+#WAVHW shamisynth2-3_104.wav
+#WAVHX shamisynth2-3_105.wav
+#WAVHY shamisynth2-3_106.wav
+#WAVHZ shamisynth2-3_107.wav
+#WAVI1 vo_01.wav
+#WAVI2 vo_02.wav
+#WAVI3 vo_03.wav
+#WAVI4 vo_04.wav
+#WAVI5 vo_05.wav
+#WAVI6 vo_06.wav
+#WAVI7 vo_07.wav
+#WAVI8 vo_shot_OP1.wav
+#WAVI9 vo_shot_OP2.wav
+#WAVIA vo_shot_OP3.wav
+#WAVIB vo_shot_OP4.wav
+#WAVIC vo_shot_A1.wav
+#WAVID vo_shot_A2gero.wav
+#WAVIE vo_shot_A3.wav
+#WAVIF vo_shot_B1.wav
+#WAVIG vo_shot_B2.wav
+#WAVIH vo_shot_NEET.wav
+#WAVII vo_shot_hyahhooooooooooooooooi!!!!!.wav
+#WAVZ1 drum_wobble_01.wav
+#WAVZ2 drum_wobble_02.wav
+#WAVZ3 drum_wobble_03.wav
+#WAVZ4 drum_wobble_04.wav
+#WAVZ5 drum_wobble_05.wav
+#WAVZ6 drum_wobble_06.wav
+#WAVZ7 fx_fill.wav
+#WAVZ8 fx_key1.wav
+#WAVZ9 fx_key2.wav
+#WAVZA fx_key3.wav
+#WAVZB fx_sweep1.wav
+#WAVZC fx_sweep2.wav
+#WAVZD fx_sweep3.wav
+#WAVZE fx_sweep4.wav
+#WAVZG sidechain_01.wav
+#WAVZH sidechain_02.wav
+#WAVZI sidechain_03.wav
+
+#BMP01 hatarakitakunai_NN.mpg
+#BMP02 BMS_miss.bmp
+
+
+
+
+#DIFFICULTY 5
+#SUBARTIST 出前 + くるみあべし / obj : 双葉杏
+#BANNER shatik_banner.png
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00I1
+#00006:02
+
+#00111:01000203ZY020100
+#00112:5A00ZYZY5DZY0000
+#00113:ZY00ZY5C3100ZY00
+#00114:ZY005B3200ZY5F00
+#00115:ZY003900ZY5E3500
+#00118:370000ZYZY32ZY00
+#00119:0S000T0U0V0W0X00
+
+#00201:00
+#00201:00
+#00201:7Q007R7S7T007U7V7W007S7X7Y007V7Z
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00ALAMAN
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:ZB
+#00211:01
+#00212:ZY
+#00213:5G
+#00214:AK
+#00215:53
+#00218:ZY
+#00219:0Y
+
+#00301:0000000000000000000000000000000000000000000000007C7D7E7F7G7H7I7J
+#00301:00
+#00301:80007X007V007S0081007Z007X007V00820080007Z007X00838485868788898A
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:AOAPAQ00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00000013
+#00301:000000ZC
+
+#00401:68636H606H63686H68636H606H63686H
+#00401:00
+#00401:80008C8D80008C8D7Z008B8C7Z008B8C
+#00401:00
+#00401:0100010001000201
+#00401:00
+#00401:00
+#00401:00400040003M0040
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:1X
+#00401:2I2I0000
+#00401:0024002400000000
+#00401:002H
+#00401:000000000000000000002F2G2F000000
+#00401:000000000000002J
+#00401:00100000
+
+#00501:68636I606I63686I68696A6B6C6D6E6F
+#00501:00
+#00501:80008C8D80008C8D808H818I828J8K8L
+#00501:00
+#00501:0002010001000000
+#00501:00
+#00501:00
+#00501:00403C0040005400
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:1Y
+#00501:002M0000
+#00501:002N
+#00501:00000027
+#00501:00
+#00501:002J000000000000
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00I8
+
+#00601:68636H606H63686H68636H606H63686H
+#00601:00
+#00601:80008C8D80008C8D7Z008B8C7Z008B8C
+#00601:00
+#00601:0100010001000201
+#00601:00
+#00601:00
+#00601:00400040003M0040
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:1X
+#00601:2I002I000000002Q
+#00601:0024002400000000
+#00601:002H
+#00601:000000000000000000002J00002J0000
+
+#00701:68636I606I63686I6867666564636261
+#00701:00
+#00701:80008C8D80008C8D808M7Z7X8N7V8O7S
+#00701:00
+#00701:0002010001000000
+#00701:00
+#00701:00
+#00701:00403C0040005500
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:1Y
+#00701:00
+#00701:002Y0000
+#00701:00002N27
+#00701:00000000002U0000
+#00701:00000000002F0000
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00I9
+
+#00801:68636H606H63686H68636H606H63686H
+#00801:00
+#00801:80008C8D80008C8D7Z008B8C7Z008B8C
+#00801:00
+#00801:0100010001000201
+#00801:00
+#00801:00
+#00801:00400040003M0040
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:1X
+#00801:2I2I0000
+#00801:0024002400000000
+#00801:002H
+#00801:000000000000000000002F2G2F000000
+#00801:000000000000002J
+#00801:00100000
+
+#00901:68636I606I63686I68696A6B6C6D6E6F
+#00901:00
+#00901:80008C8D80008C8D808H818I828J8K8L
+#00901:00
+#00901:0002010001000000
+#00901:00
+#00901:00
+#00901:00403C0040005400
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:1Y
+#00901:002M0000
+#00901:002N
+#00901:00000027
+#00901:00
+#00901:002J000000000000
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00IA
+
+#01001:68636H606H63686H68636H606H63686H
+#01001:00
+#01001:80008C8D80008C8D7Z008B8C7Z008B8C
+#01001:00
+#01001:0100010001000201
+#01001:00
+#01001:00
+#01001:00400040003M0040
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:1X
+#01001:2I002I000000002R
+#01001:0024002400000000
+#01001:002H
+#01001:000000000000000000002J00002J0000
+
+#01101:68636I606I63686I686068606G000000
+#01101:00
+#01101:80008C8D80008C8D8E8F8E8F8G000000
+#01101:00
+#01101:0002010001000000
+#01101:00
+#01101:00
+#01101:00403C0040005500
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:1Z
+#01101:00
+#01101:002X0000
+#01101:00000000000000002O2P2O2P00000000
+#01101:00000027
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00IB
+
+#05602:2
